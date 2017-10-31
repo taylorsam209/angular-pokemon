@@ -20,6 +20,15 @@ body{
 
 }
 
+.type {
+  margin-top:5px;
+  font-size:20px;
+  font-family: sans-serif;
+  font-weight: bold;
+ color: white;
+  text-align: center;
+}
+
 input {
   font-size: 1em;
 }
@@ -54,7 +63,7 @@ button {
   position: relative;
   transition: 1s;
   top:0px;
-  height:316.25px;
+  height:350px;
   box-shadow: inset 0px 0px 3px rgba(0,0,0,0.9);
 }
 
